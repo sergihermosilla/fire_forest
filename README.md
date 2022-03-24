@@ -9,7 +9,11 @@ S'utilitzaràn dades d'incendis històrics, tant per la seva ubicació com per e
 
 ## Estructura de la web
 
+
 ![Esquema del Home de la web](./images/docs/home.PNG)
+
+En tota la web hi haurà un menú contextual que desplegarà...
+![Esquema del Home de la web](./images/docs/menu.PNG)
 
 ## Cartografia
 S'utilitzarà cartografia de les muntanyes de prades, ubicació de municipis i polígons de incendis històrics
