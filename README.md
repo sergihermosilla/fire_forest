@@ -5,7 +5,7 @@ Aquest repositori conté el codi font per a fer una pàgina web per analitzar in
 Aquesta web s'utilitzarà per l'anàlisi d'incendis forestals d'incendis històrics per a l'avaluació de fer cremes prescrites en punts crítics de les Muntanyes de Prades.
 
 ## Dades
-S'utilitzaràn dades d'incendis històrics, tant per la seva ubicació com per el seu peímetre i àreea en forma de polígons
+S'utilitzaran dades d'incendis històrics, tant per la seva ubicació com per el seu peímetre i area en forma de polígons
 
 ## Estructura de la web
 
@@ -25,6 +25,7 @@ Les dades per a fer el mapa són les següents
 S'utilitzarà cartografia de les muntanyes de prades, ubicació de municipis i polígons de incendis històrics.
 
 ## Dificultats i millores
-Les dificultats que puc tenir són les de tenir informació sobre cada polígon. milloraria amb la informació de projectes d'actuació de prevenció d'incendis
+Les dificultats que puc tenir són les de tenir informació sobre cada polígon. 
+Milloraria amb la informació de projectes d'actuació de prevenció d'incendis
 
 
