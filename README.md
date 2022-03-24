@@ -25,5 +25,6 @@ Les dades per a fer el mapa són les següents
 S'utilitzarà cartografia de les muntanyes de prades, ubicació de municipis i polígons de incendis històrics.
 
 ## Dificultats i millores
+Les dificultats que puc tenir són les de tenir informació sobre cada polígon. milloraria amb la informació de projectes d'actuació de prevenció d'incendis
 
 
